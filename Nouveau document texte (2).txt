@@ -1,0 +1,6 @@
+var tab = [3,6,7,9]
+var list = ["hello", "again","everyone"]
+var str = "ceci est une phrase"
+list.push("ok")
+
+console.log(list)
